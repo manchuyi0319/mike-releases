@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/manchuyi0319/mike-releases/releases/download/v1.1.0/Mike-Setup-1.1.0.exe",
+  "size_mb": 39.5,
+  "notes": "## 本次更新\n\n- 启动时自动检查新版本，「本机信息」里也可以手动检查\n- 界面改为独立窗口，关窗口即退出，不留后台进程\n- 自动挑选本机浏览器（Chrome / Edge / 360 / QQ / Brave / 搜狗），不再写死\n- 修复最大化后页面挤在左上角\n- 修复安装版平台列表空白\n- 修复打包版启动闪退",
+  "published_at": "2026-11-21"
+}
